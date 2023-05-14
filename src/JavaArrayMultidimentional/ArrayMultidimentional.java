@@ -1,4 +1,4 @@
-package ArrayMultidimentional;
+package JavaArrayMultidimentional;
 
 public class ArrayMultidimentional {
     public static void main(String[] args) {
